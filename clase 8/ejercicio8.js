@@ -34,3 +34,5 @@ if (numero5 % 2 === 0) {
 // ejercicio 5
 let nombre = prompt("dime tu nombre porfavor: ");
 console.log(`hola ${nombre} es un gusto!!`);
+
+

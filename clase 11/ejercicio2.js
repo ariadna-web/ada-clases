@@ -17,5 +17,4 @@ switch (color) {
         ("el semaforo esta en rojo, detengase")
         break;
 
-
 }
